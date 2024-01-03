@@ -1,3 +1,5 @@
+# Thoughts
+
 # Can create a generate factory method still, which is simply
 # a replacement of the constructor in cases where a standard
 # function is preferred.
